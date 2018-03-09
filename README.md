@@ -96,3 +96,7 @@ app/views/posts/show.html.erb
   <%= @post.body %>
 </p>
 ```
+git add .
+git commit -m "Add the posts"
+git push origin posts
+---
